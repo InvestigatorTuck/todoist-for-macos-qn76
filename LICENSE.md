@@ -1,4 +1,4 @@
-
+Enhance Todoist for macOS with Todoist for macOS automatic Macro - custom shortcuts and tags, the #1 macro. Includes custom shortcuts and tags for a smoother experience.
 
 
 
